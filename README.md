@@ -1,1 +1,1 @@
-# dicee
+# dicee game
